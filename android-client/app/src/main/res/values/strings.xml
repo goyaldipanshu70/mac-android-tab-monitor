@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TabMonitor</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="server_ip_hint">Server IP Address</string>
+    <string name="enter_fullscreen">Enter Fullscreen</string>
+    <string name="exit">Exit</string>
+    <string name="instructions">Instructions:\n1. Ensure your MacBook and Android device are on the same WiFi network\n2. Start the TabMonitor Server on your MacBook\n3. Enter the server IP address shown on your MacBook\n4. Tap Connect to start mirroring\n5. Use Fullscreen mode for the best experience</string>
+</resources>
